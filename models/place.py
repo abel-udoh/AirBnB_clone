@@ -1,16 +1,11 @@
 #!/usr/bin/python3
-"""
-Place class modules
-"""
+"""Module for Place class."""
 
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """
-    Class place objects
-    """
-
+    """Class representing a Place."""
     city_id = ""
     user_id = ""
     name = ""
