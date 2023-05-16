@@ -21,6 +21,7 @@ Destroy an object
 Storage
 Instances of classes are saved in a JSON string representation to the file.json file at the root directory. Any modifications (additions, deletions, updates) to the objects are saved automatically to the file. The JSON file serves as a simple database that helps the data persist across sessions.
 
-The contributors to this projects are:
+
+The contributors to this project are:
 Michael Chime Ndubuisi <ndubuisichime6@gmail.com>
 Abel Udo <abudoh3@gmail.com>
